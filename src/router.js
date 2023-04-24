@@ -6,7 +6,8 @@ import Detail from './components/Detail.vue'
 const routes = [
   {
     path: '/list/',
-    component: List
+    component: List,
+   
   },
   {
     path: '/todo',
